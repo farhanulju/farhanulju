@@ -11,17 +11,17 @@ I'm currently managing [CubeNation](https://cubenationshop.com), a Bangladeshi P
 
 <!-- Actual text -->
 
-You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
+<div align=center>You can find me on [![Facebook][1.2]][1] </div>
 
 <!-- Icons -->
 
-[1.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://upload.wikimedia.org/wikipedia/commons/c/c2/Facebook_icon_192.png (FB icon without padding)
+
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.facebook.com/WCA2017khan54
-[2]: https://www.linkedin.com/in/heinz-martin/
+
 <!---
 This repository is an artifact. its `README.md` (this file) appears on my GitHub profile.
 --->
