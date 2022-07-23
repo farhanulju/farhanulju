@@ -11,11 +11,11 @@ I'm currently managing [CubeNation](https://cubenationshop.com), a Bangladeshi P
 
 <!-- Actual text -->
 
-<div align=center>You can find me on [![Facebook][1.2]][1] </div>
+You can find me on [![Facebook][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://upload.wikimedia.org/wikipedia/commons/c/c2/Facebook_icon_192.png (FB icon without padding)
+[1.2]: https://upload.wikimedia.org/wikipedia/commons/c/c2/Facebook_icon_192.png (Facebook icon without padding)
 
 
 <!-- Links to your social media accounts -->
