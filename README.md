@@ -9,6 +9,6 @@ I'm currently managing [CubeNation](https://cubenationshop.com), a Bangladeshi P
 - ✉️ Struggling with your business operation pipeline? I may be able to help help you. Reach me at <br> <br>
 
 
-[Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20business%20bptimization%20talks)
+[Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20business%20Optimization%20talks)
 
 [Social](https://www.facebook.com/WCA2017khan54)
