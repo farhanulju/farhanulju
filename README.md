@@ -8,6 +8,20 @@ I'm currently managing [CubeNation](https://cubenationshop.com), a Bangladeshi P
 - 🧑‍💼 I work with SMEs to optimize their existing business operation using data-driven models. <br>
 - ✉️ Struggling with your business operation pipeline? I may be able to help help you. Reach me at 2017khan54@gmail.com
 
+
+<!-- Actual text -->
+
+You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.facebook.com/WCA2017khan54
+[2]: https://www.linkedin.com/in/heinz-martin/
 <!---
 This repository is an artifact. its `README.md` (this file) appears on my GitHub profile.
 --->
