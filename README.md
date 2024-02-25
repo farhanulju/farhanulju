@@ -6,7 +6,7 @@ I'm currently managing [CubeNation](https://cubenationshop.com), a Bangladeshi P
 
 <h4>TL;DR. </h4>
 - 🧑‍💼 I work with SMEs to optimize their existing business operation using data-driven models. <br>
-- ✉️ Struggling with your business operation pipeline? I may be able to help help you. Reach me at <br> <br>
+- ✉️ Struggling with your business operation pipeline? I may be able to help you. Reach me at <br> <br>
 
 
 [Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20business%20Optimization%20talks)
