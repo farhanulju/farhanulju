@@ -24,9 +24,7 @@ With 7 years of solo entrepreneurial experience and 2 years of team leadership, 
 ## TL;DR
 
 - 🧑‍💼 I empower SMEs by refining their business operations with data-centric strategies.
-- ✉️ If you're facing operational challenges, let's chat.
-
-### Connect With Me
+- ✉️ If you're facing operational challenges, connect with me
 
 📧 [Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20Business%20Optimization%20Inquiry)
 
