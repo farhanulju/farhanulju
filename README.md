@@ -1,14 +1,33 @@
-<h3>👋 Hi, I’m Farhanul. </h3>
-<h4> I am not a coding wizard. I make changes to existing codes to make things work. </h4>
+# 👋 Welcome! I'm Farhanul
 
+## About Me
 
-I'm currently managing [CubeNation](https://cubenationshop.com), a Bangladeshi Puzzle-only retail shop heavily targeted towards speedcubers. I raised this store from scratch and it's currently(2022) generating around 7M BDT revenue each year at a 26% yearly growth. I have done this by constantly testing and learning from consumer behavior. I have also created an efficient supply-chain for smooth operation. And the website? I built it on wordpress and optimized it as necessary. All of this was done effectively using great tools for project management. I primarily used Trello for Task handling, Google Sheets for cloud inventory, DigitalOcean for Server management, Jira for Agile Team management. I have roughly 6 years of experience in running a one-man-army organization. 2 years experience in managing and raising a team-driven organization. 1 year experience of project management in a reputed agile software development company. So I know a few stuff to make your business rise. 
+Although I'm not a coding sorcerer, I do possess a knack for tweaking existing code to make magic happen.
 
-<h4>TL;DR. </h4>
-- 🧑‍💼 I work with SMEs to optimize their existing business operation using data-driven models. <br>
-- ✉️ Struggling with your business operation pipeline? I may be able to help you. Reach me at <br> <br>
+### What I'm Up To
 
+I'm at the helm of [CubeNation](https://cubenationshop.com), a Bangladeshi haven for puzzle enthusiasts and speedcubers alike. I've nurtured this venture from its infancy to a flourishing enterprise with an annual revenue of approximately 7M BDT, boasting a yearly growth rate of 19% as of 2023. 
 
-[Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20business%20Optimization%20talks)
+My success stems from a relentless pursuit of understanding consumer behavior, coupled with an optimized supply chain that ensures seamless operations. And the secret behind our digital storefront? A WordPress site, fine-tuned by yours truly for peak performance.
 
-[Social](https://www.facebook.com/WCA2017khan54)
+### Tools of the Trade
+
+Over the years, I've harnessed the power of several tools to streamline project management:
+
+- Trello for task management
+- Google Sheets for real-time inventory tracking at cost efficiency
+- DigitalOcean for server administration
+- Jira for agile team coordination
+
+With 7 years of solo entrepreneurial experience and 2 years of team leadership, I've developed a robust skill set. My recent work, 1 year of project management at a renowned agile software development firm—has further solidified my expertise.
+
+## TL;DR
+
+- 🧑‍💼 I empower SMEs by refining their business operations with data-centric strategies.
+- ✉️ If you're facing operational challenges, let's chat.
+
+### Connect With Me
+
+📧 [Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20Business%20Optimization%20Inquiry)
+
+🔗 [Facebook](https://www.facebook.com/WCA2017khan54)
