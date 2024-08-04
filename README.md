@@ -27,8 +27,8 @@ Online store for IBA Social Welfare Club for their annual non-profit merchandise
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello)
 
 #### Data Analysis & Business Intelligence Tools
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-F0FAFA?style=flat-square&logo=google-sheets)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=excel)
 ![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=flat-square&logo=ibm)
 
 #### Hosting & Cloud Services
@@ -39,12 +39,12 @@ Online store for IBA Social Welfare Club for their annual non-profit merchandise
 ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr)
 
 #### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-F0FAFA?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-F4F9F1?style=flat-square&logo=mysql)
 
 #### Email Service
-![Mailgun](https://img.shields.io/badge/Mailgun-F06A6A?style=flat-square&logo=mailgun)
-![Brevo](https://img.shields.io/badge/Mailgun-F06A6A?style=flat-square&logo=brevo)
+![Mailgun](https://img.shields.io/badge/Mailgun-206A6A?style=flat-square&logo=mailgun)
+![Brevo](https://img.shields.io/badge/Brevo-F0FAFA?style=flat-square&logo=brevo)
 
 #### Web Management Tools
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel)
@@ -52,7 +52,7 @@ Online store for IBA Social Welfare Club for their annual non-profit merchandise
 
 #### Design Tools
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
-![Figma](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Figma)
+![Figma](https://img.shields.io/badge/Figma-31A8FF?style=flat-square&logo=Figma)
 
 ## TL;DR
 
