@@ -12,7 +12,7 @@ I lead [CubeNation](https://cubenationshop.com), a Bangladeshi hub for puzzle en
 [IBA-BBA29 CV](https://bba29.iba-ju.edu.bd/)
 Digital CV website for graduating batch of IBA-JU on NextJS and MongoDB with ISR & SSG for >500s loading time.
 
-[SWC Club Merch store](swcstore.iba-ju.edu.bd/)
+[SWC Club Merch store](https://swcstore.iba-ju.edu.bd/)
 Online store for IBA Social Welfare Club for their annual non-profit merchandise sale program. Built on NextJS & Google Sheets as a DB. This is a fork of Medsy project by RedQ.
 
 ### Tools of the Trade
