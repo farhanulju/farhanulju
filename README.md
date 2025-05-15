@@ -1,19 +1,34 @@
-# 👋 Welcome! I'm Farhanul
+# 👋 Hello there! I'm Farhanul
 
 ## About Me
 
-I'm a business strategist with a flair for using technology to streamline operations. While I may not be a traditional developer, my expertise lies in adapting and fine-tuning existing code to create efficient digital solutions.
+I'm a business strategist passionate about leveraging technology to drive efficiency and innovation. While my background isn't in traditional development, I thrive on understanding and utilizing tech to build effective digital solutions and optimize business processes.
 
-### What I'm Up To
+### What I'm Currently Up To
 
-I lead [CubeNation](https://cubenationshop.com), a Bangladeshi hub for puzzle enthusiasts and speedcubers. My role involves leveraging consumer insights and optimizing supply chains to ensure smooth operations. Notably, I've optimized our retail pipeline to generate 19% growth in 2023. Also, I was the product owner for the custom NextJS-based website that was launched by CubeNation in 2023. So far, this upgrade to a custom solution has led to a 14.3% revenue improvement in 2023 alone.
+I'm currently a **Product Manager at Bevy Commerce Inc**, where I'm responsible for managing existing product lines and spearheading the development of new products tailored for our enterprise clients. This involves deep collaboration with engineering, design, and sales teams to bring impactful solutions to market.
 
-### Closed-source Projects
-[IBA-BBA29 CV](https://bba29.iba-ju.edu.bd/)
-Digital CV website for graduating batch of IBA-JU on NextJS and MongoDB with ISR & SSG for >500s loading time.
+Recently, I've also been exploring rapid prototyping using **Lovable** to significantly reduce the time to market for new product concepts. This allows for quick iteration and validation, ensuring we build the right solutions efficiently.
 
-[SWC Club Merch store](https://swcstore.iba-ju.edu.bd/)
-Online store for IBA Social Welfare Club for their annual non-profit merchandise sale program. Built on NextJS & Google Sheets as a DB. This is a fork of Medsy project by RedQ.
+On the personal front, I've launched a new project: [Alumni Connect Universe](https://alumni-connect-universe.vercel.app/) – a platform built to foster connection and networking among IBA JU alumni.
+
+My experience in project management now includes **Clickup**, which I've integrated into my workflow to enhance organization and collaboration.
+
+### My Ventures
+
+#### CubeNation ([https://cubenationshop.com](https://cubenationshop.com))
+
+As the leader of CubeNation, a prominent Bangladeshi hub for puzzle enthusiasts and speedcubers, I focus on data-driven decision-making to optimize our supply chain and enhance customer experience. My efforts led to a **17% growth in our retail pipeline in 2024**. Furthermore, I served as the product owner for CubeNation's custom NextJS-based website, launched in 2023. This strategic upgrade resulted in a **14.3% revenue improvement in 2023**, with continued growth to date.
+
+### Notable Projects
+
+#### [IBA-BBA29 CV](https://bba29.iba-ju.edu.bd/) (Closed-source)
+
+Led the development of a digital CV website for the graduating batch of IBA-JU. Built with NextJS and MongoDB, the site utilizes ISR (Incremental Static Regeneration) and SSG (Server-Side Generation) to achieve loading times of under 500ms.
+
+#### [SWC Club Merch store](https://swcstore.iba-ju.edu.bd/) (Closed-source)
+
+Developed an online merchandise store for the IBA Social Welfare Club's annual non-profit fundraising program. This project, built on NextJS with Google Sheets as a database, is a customized fork of the Medsy project by RedQ.
 
 ### Tools of the Trade
 
@@ -22,9 +37,13 @@ Online store for IBA Social Welfare Club for their annual non-profit merchandise
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu)
 
-#### Collaboration Tools
+#### Collaboration & Project Management Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello)
+![Clickup](https://img.shields.io/badge/ClickUp-00A3E4?style=flat-square&logo=clickup)
+
+#### Rapid Prototyping
+![Lovable](https://img.shields.io/badge/Lovable-6B46C1?style=flat-square&logo=figma)
 
 #### Data Analysis & Business Intelligence Tools
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-F0FAFA?style=flat-square&logo=google-sheets)
@@ -54,10 +73,14 @@ Online store for IBA Social Welfare Club for their annual non-profit merchandise
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/Figma-31A8FF?style=flat-square&logo=Figma)
 
-## TL;DR
+## In a Nutshell
 
-- 🧑‍💼 I specialize in optimizing business operations using data-driven strategies.
-- ✉️ For collaboration or consultation on operational challenges, feel free to connect.
+- 🧑‍💼 I'm a Product Manager at Bevy Commerce Inc, focused on building and managing enterprise-level products.
+- 🚀 I leverage rapid prototyping with Lovable to accelerate product development.
+- 🔗 Check out my new personal project for IBA JU alumni: [Alumni Connect Universe](https://alumni-connect-universe.vercel.app/).
+- 🛠️ My project management toolkit now includes Clickup.
+- 📊 I specialize in optimizing business operations through data-driven strategies and technical solutions.
+- ✉️ Feel free to reach out if you'd like to collaborate or discuss operational challenges.
 
 📧 [Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20Business%20Optimization%20Inquiry)
 
