@@ -8,25 +8,19 @@ I'm a business strategist passionate about leveraging technology to drive effici
 
 I'm currently a **Product Manager at Bevy Commerce Inc**, where I'm responsible for managing existing product lines and spearheading the development of new products tailored for our enterprise clients. This involves deep collaboration with engineering, design, and sales teams to bring impactful solutions to market.
 
-Recently, I've also been exploring rapid prototyping using **Lovable** to significantly reduce the time to market for new product concepts. This allows for quick iteration and validation, ensuring we build the right solutions efficiently.
-
-On the personal front, I've launched a new project: [Alumni Connect Universe](https://alumni-connect-universe.vercel.app/) – a platform built to foster connection and networking among IBA JU alumni.
-
-My experience in project management now includes **Clickup**, which I've integrated into my workflow to enhance organization and collaboration.
-
 ### My Ventures
 
-#### CubeNation ([https://cubenationshop.com](https://cubenationshop.com))
+#### CubeNation ([https://www.cubenationshop.com](https://www.cubenationshop.com))
 
-As the leader of CubeNation, a prominent Bangladeshi hub for puzzle enthusiasts and speedcubers, I focus on data-driven decision-making to optimize our supply chain and enhance customer experience. My efforts led to a **17% growth in our retail pipeline in 2024**. Furthermore, I served as the product owner for CubeNation's custom NextJS-based website, launched in 2023. This strategic upgrade resulted in a **14.3% revenue improvement in 2023**, with continued growth to date.
+As the leader of CubeNation, a prominent Bangladeshi hub for puzzle enthusiasts and speedcubers, I focus on data-driven decision-making to optimize our supply chain and enhance customer experience. My efforts led to a **15% growth in our retail pipeline in 2025**. Furthermore, I served as the product owner for CubeNation's custom NextJS-based website, launched in 2023. This strategic upgrade resulted in a **14.3% revenue improvement in 2023**, with continued growth to date.
 
 ### Notable Projects
 
-#### [IBA-BBA29 CV](https://bba29.iba-ju.edu.bd/) (Closed-source)
+#### IBA-BBA29 CV (Closed-source)
 
 Led the development of a digital CV website for the graduating batch of IBA-JU. Built with NextJS and MongoDB, the site utilizes ISR (Incremental Static Regeneration) and SSG (Server-Side Generation) to achieve loading times of under 500ms.
 
-#### [SWC Club Merch store](https://swcstore.iba-ju.edu.bd/) (Closed-source)
+#### SWC Club Merch store (Closed-source)
 
 Developed an online merchandise store for the IBA Social Welfare Club's annual non-profit fundraising program. This project, built on NextJS with Google Sheets as a database, is a customized fork of the Medsy project by RedQ.
 
@@ -76,9 +70,6 @@ Developed an online merchandise store for the IBA Social Welfare Club's annual n
 ## In a Nutshell
 
 - 🧑‍💼 I'm a Product Manager at Bevy Commerce Inc, focused on building and managing enterprise-level products.
-- 🚀 I leverage rapid prototyping with Lovable to accelerate product development.
-- 🔗 Check out my new personal project for IBA JU alumni: [Alumni Connect Universe](https://alumni-connect-universe.vercel.app/).
-- 🛠️ My project management toolkit now includes Clickup.
 - 📊 I specialize in optimizing business operations through data-driven strategies and technical solutions.
 - ✉️ Feel free to reach out if you'd like to collaborate or discuss operational challenges.
 
