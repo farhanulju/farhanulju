@@ -1,78 +1,78 @@
-# 👋 Hello there! I'm Farhanul
+# Farhanul Haque Khan
 
-## About Me
+**Founder and product manager.** I build commerce products from 0 → 1: my own store, and Shopify apps used by brands like Reebok and Champion.
 
-I'm a business strategist passionate about leveraging technology to drive efficiency and innovation. While my background isn't in traditional development, I thrive on understanding and utilizing tech to build effective digital solutions and optimize business processes.
+[LinkedIn](https://linkedin.com/in/farhanulkhan) · [Email](mailto:2017khan54@gmail.com) · [Résumé](https://github.com/farhanulju/Resume-PDF/blob/main/resume.pdf) · Dhaka, Bangladesh
 
-### What I'm Currently Up To
+I started CubeNation at 16 and still run it. It's where I learned product the honest way: every call on pricing, checkout and stock showed up in next month's revenue. I bring that same lens to my work as Product Manager at Bevy Commerce, where I've launched 8 Shopify apps as the sole PM.
 
-I'm currently a **Product Manager at Bevy Commerce Inc**, where I'm responsible for managing existing product lines and spearheading the development of new products tailored for our enterprise clients. This involves deep collaboration with engineering, design, and sales teams to bring impactful solutions to market.
+## CubeNation
 
-### My Ventures
+<a href="https://www.cubenationshop.com/"><img src="assets/cubenation.png" alt="CubeNation storefront" width="100%"></a>
 
-#### CubeNation ([https://www.cubenationshop.com](https://www.cubenationshop.com))
+**Bangladesh's largest store for speedcubing puzzles.** Founded in 2016, grown from nothing into a profitable, multi-channel business with a team of 8.
 
-As the leader of CubeNation, a prominent Bangladeshi hub for puzzle enthusiasts and speedcubers, I focus on data-driven decision-making to optimize our supply chain and enhance customer experience. My efforts led to a **15% growth in our retail pipeline in 2025**. Furthermore, I served as the product owner for CubeNation's custom NextJS-based website, launched in 2023. This strategic upgrade resulted in a **14.3% revenue improvement in 2023**, with continued growth to date.
+- **15,000+ customers** and **4,400+ monthly active users**
+- Redesigned the checkout flow: **+37% conversion** in 2025
+- Rebuilt the supply chain around stockouts: **+18% revenue** in FY 24–25
+- Grew the market, not just the store: a mentorship program that coached **200+ students** (72% completion) and helped 16 organizers launch national competitions, plus booths at **18 events with 60,000+ attendees**
 
-### Notable Projects
+→ [cubenationshop.com](https://www.cubenationshop.com/)
 
-#### IBA-BBA29 CV (Closed-source)
+## Shipped at Bevy Commerce
 
-Led the development of a digital CV website for the graduating batch of IBA-JU. Built with NextJS and MongoDB, the site utilizes ISR (Incremental Static Regeneration) and SSG (Server-Side Generation) to achieve loading times of under 500ms.
+Each of these started as an enterprise merchant's problem that Shopify couldn't solve out of the box.
 
-#### SWC Club Merch store (Closed-source)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://apps.shopify.com/smart-collections-builder"><img src="assets/smart-collections.png" alt="Smart Collections Builder"></a>
+<h3><a href="https://apps.shopify.com/smart-collections-builder">Smart Collections Builder</a></h3>
+Shopify's collections can't filter on metafields or mix AND/OR rules, so big catalogs were curated by hand. Now used by Reebok, Champion, Juicy Couture and Authentic Brands Group, it saves <b>1,200+ work hours per quarter</b>.
+</td>
+<td width="50%" valign="top">
+<a href="https://www.bevycommerce.com/order-pilot/"><img src="assets/orderpilot.png" alt="OrderPilot"></a>
+<h3><a href="https://www.bevycommerce.com/order-pilot/">OrderPilot</a></h3>
+Furniture retailers with custom configurations couldn't run on SKU-based Shopify. OrderPilot builds the product at the point of order and replaces their signing, PO and inventory tools. It brought <b>6+ merchants with $40M+ annual revenue each</b> onto Shopify for the first time.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://apps.shopify.com/surge-ai-search"><img src="assets/surge.png" alt="Surge AI Search"></a>
+<h3><a href="https://apps.shopify.com/surge-ai-search">Surge: AI Search</a></h3>
+A drop-in replacement for Shopify's native search, with NLP-powered instant results, reliable typo tolerance, personalized recommendations and a search UI that fits any theme.
+</td>
+<td width="50%" valign="top">
+<a href="https://www.bevycommerce.com/share-cart"><img src="assets/share-cart.png" alt="Share Cart"></a>
+<h3><a href="https://www.bevycommerce.com/share-cart">Share Cart</a></h3>
+Turns a live cart into a shareable link for families, corporate wishlists and one-click bundles. Repackaging it into usage-based tiers per customer segment <b>grew MRR by 80%</b>.
+</td>
+</tr>
+</table>
 
-Developed an online merchandise store for the IBA Social Welfare Club's annual non-profit fundraising program. This project, built on NextJS with Google Sheets as a database, is a customized fork of the Medsy project by RedQ.
+Also launched: [Bevy Price Rules](https://apps.shopify.com/bevy-price-rules) · [Bevy Affiliate](https://apps.shopify.com/bevy-affiliate-marketing)
 
-### Tools of the Trade
+**Across the portfolio:** 120% ARR growth and 30% lower OpEx from structured A/B testing, plus a training program that upskilled 50+ staff and helped Bevy earn **Shopify Premier Partner** status.
 
-#### Coding Languages, Frameworks, OS
-![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu)
+## How I work
 
-#### Collaboration & Project Management Tools
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello)
-![Clickup](https://img.shields.io/badge/ClickUp-00A3E4?style=flat-square&logo=clickup)
+- **Revenue is the scoreboard.** Running my own business means every feature has a P&L attached, and I hold roadmaps to the same standard.
+- **Instrument before you iterate.** I set up the Sentry, PostHog and Metabase stack across Bevy so we catch issues before customers report them.
+- **AI in the MVP, not on the roadmap.** Building AI in from the first prototype has cut **4+ weeks** off each launch cycle.
+- **Show, don't spec.** I prototype working versions myself, so engineers and stakeholders react to something real instead of a document.
 
-#### Rapid Prototyping
-![Lovable](https://img.shields.io/badge/Lovable-6B46C1?style=flat-square&logo=figma)
+## Currently
 
-#### Data Analysis & Business Intelligence Tools
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-F0FAFA?style=flat-square&logo=google-sheets)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=excel)
-![SPSS](https://img.shields.io/badge/SPSS-006CB4?style=flat-square&logo=ibm)
+Advisor to the board of **Speedcubing Bangladesh**, where I'm also building its new platform: competitions, national records and registration, synced daily from the World Cube Association. *Work in progress* · [repo](https://github.com/farhanulju/Speedcubing-Bangladesh)
 
-#### Hosting & Cloud Services
-![Vercel](https://img.shields.io/badge/Vercel-007BFC?style=flat-square&logo=Vercel)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat-square&logo=linode)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat-square&logo=vultr)
+## Compare notes
 
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-F0FAFA?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-F4F9F1?style=flat-square&logo=mysql)
+I enjoy trading ideas with founders and teams working on:
 
-#### Email Service
-![Mailgun](https://img.shields.io/badge/Mailgun-206A6A?style=flat-square&logo=mailgun)
-![Brevo](https://img.shields.io/badge/Brevo-F0FAFA?style=flat-square&logo=brevo)
+- taking a Shopify app or SaaS product from idea to first paying customers
+- improving checkout and conversion for a growing online store
+- setting up analytics so product decisions stop being guesses
 
-#### Web Management Tools
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin)
+If that sounds like you, [say hello](mailto:2017khan54@gmail.com?subject=Hello%20from%20GitHub).
 
-#### Design Tools
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop)
-![Figma](https://img.shields.io/badge/Figma-31A8FF?style=flat-square&logo=Figma)
-
-## In a Nutshell
-
-- 🧑‍💼 I'm a Product Manager at Bevy Commerce Inc, focused on building and managing enterprise-level products.
-- 📊 I specialize in optimizing business operations through data-driven strategies and technical solutions.
-- ✉️ Feel free to reach out if you'd like to collaborate or discuss operational challenges.
-
-📧 [Email](mailto:2017khan54@gmail.com?subject=[GitHub]%20Business%20Optimization%20Inquiry)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/farhanulkhan)
+<sub>Off the clock: speedcuber ([WCA profile](https://www.worldcubeassociation.org/persons/2017KHAN54)) and chess player.</sub>
