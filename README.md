@@ -2,7 +2,7 @@
 
 **Founder and product manager.** I build commerce products from 0 → 1: my own store, and Shopify apps used by brands like Reebok and Champion.
 
-[LinkedIn](https://linkedin.com/in/farhanulkhan) · [Email](mailto:2017khan54@gmail.com) · [Résumé](https://github.com/farhanulju/Resume-PDF/blob/main/resume.pdf) · Dhaka, Bangladesh
+[LinkedIn](https://linkedin.com/in/farhanulkhan) · [Email](mailto:2017khan54@gmail.com) · [Résumé](https://github.com/farhanulju/Resume-PDF/blob/main/Farhanul%20Haque%20Khan_Resume_2026-06-25.pdf) · Dhaka, Bangladesh
 
 I started CubeNation at 16 and still run it. It's where I learned product the honest way: every call on pricing, checkout and stock showed up in next month's revenue. I bring that same lens to my work as Product Manager at Bevy Commerce, where I've launched 8 Shopify apps as the sole PM.
 
